@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc53e7f5-4b4c-4991-9eab-bc9590674db4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/18-Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-Classes_and_Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterators" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16-Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-Lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterators" beforeDir="false" afterPath="$PROJECT_DIR$/21-Iterator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Iterators">
+        <entry file="file://$PROJECT_DIR$/21-Iterator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="62" column="16" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -54,6 +49,7 @@
         <option value="$PROJECT_DIR$/Classes_and_Objects.py" />
         <option value="$PROJECT_DIR$/Inheritance.py" />
         <option value="$PROJECT_DIR$/Iterators" />
+        <option value="$PROJECT_DIR$/Iterator.py" />
       </list>
     </option>
   </component>
@@ -90,28 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Iterators">
-    <configuration name="16-Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="w3schoolPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Iterator">
     <configuration name="Classes_and_Objects" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="w3schoolPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +121,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\dev\Python\w3schoolPython\20-Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="w3schoolPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\dev\Python\w3schoolPython\21-Iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Iterator" />
         <item itemvalue="Python.Iterators" />
         <item itemvalue="Python.Inheritance" />
         <item itemvalue="Python.Classes_and_Objects" />
         <item itemvalue="Python.array" />
-        <item itemvalue="Python.16-Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +213,14 @@
       <option name="presentableId" value="Default" />
       <updated>1589187264454</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Array, Class/Objects, Inheritance, and Iterators">
+      <created>1590633349115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590633349116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -233,11 +237,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32890365" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,6 +266,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Array, Class/Objects, Inheritance, and Iterators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Array, Class/Objects, Inheritance, and Iterators" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/02-Syntax.py">
@@ -349,8 +357,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Iterators">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="62" column="16" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+        <state relative-caret-position="204">
+          <caret line="66" column="19" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21-Iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

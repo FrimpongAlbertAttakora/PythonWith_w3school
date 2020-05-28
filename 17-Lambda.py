@@ -31,6 +31,11 @@ print(mydoubler(11))
 print(mytripler(11))
 '''
 
+def trial(x):
+    return lambda n : (2*x) + n
+examp = trial(9)
+print(examp(6))
+
 
 
 

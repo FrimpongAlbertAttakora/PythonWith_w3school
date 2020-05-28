@@ -95,7 +95,18 @@ print("\n\nRecursion Example Results")
 tri_recursion(6)
 '''
 
-
+def quad_equation (a, b, c):
+    d = (b * b) - (4*a*c)
+    if d < 0:
+        print("Complex roots")
+    elif d > 0:
+        x_1 = ((-b) - pow(d , 0.5)) / (2 * a)
+        x_2 = ((-b) + pow(d , 0.5)) / (2 * a)
+        print("Real roots")
+    else:
+        x_1, x_2 = (-b) / (2 * a)
+    return x_1, x_2
+print(quad_equation(1, 5, 6))
 
 
 
